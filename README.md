@@ -11,7 +11,6 @@ This project implements a supervised machine learning pipeline to detect decepti
 - **Model Used:** Logistic Regression  
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, ROC AUC
 
----
 
 ## Model Performance
 
@@ -22,7 +21,6 @@ This project implements a supervised machine learning pipeline to detect decepti
 | Recall    | 0.85    |
 | F1-Score  | 0.87    |
 
----
 
 ## Visual Outputs
 
@@ -32,7 +30,7 @@ This project implements a supervised machine learning pipeline to detect decepti
 ### ROC Curve  
 <img src="images/roc_curve.png" alt="ROC Curve" width="400"/>
 
----
+
 
 ## Objective
 
@@ -40,23 +38,22 @@ To build an interpretable and scalable machine learning solution for detecting m
 
 ---
 
-## 📁 Project Structure
+```text
 deception-detection/
-├── images/
-│ ├── confusion_matrix.png
-│ └── roc_curve.png
-├── data/
-├── src/
-│ ├── preprocessing.py
-│ └── train_model.py
-├── model/
-├── requirements.txt
-└── README.md
-
+├── images/                  # Visual outputs
+│   ├── confusion_matrix.png
+│   └── roc_curve.png
+├── data/                    # Dataset files
+├── src/                     # Source code
+│   ├── preprocessing.py     # Text cleaning, tokenization, etc.
+│   └── train_model.py       # TF-IDF, model training, evaluation
+├── model/                   # Saved model files
+├── requirements.txt         # Required Python libraries
+└── README.md                # Project documentation
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
