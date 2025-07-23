@@ -44,9 +44,8 @@ link: https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 ```text
 deception-detection/
-├── images/                  # Visual outputs
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
+├── confusion_matrix.png     # Visual output 1
+├── roc_curve.png            # Visual output 2
 ├── data/                    # Dataset files
 ├── src/                     # Source code
 │   ├── preprocessing.py     # Text cleaning, tokenization, etc.
