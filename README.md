@@ -39,6 +39,9 @@ To build an interpretable and scalable machine learning solution for detecting m
 
 ---
 
+# Dataset
+link: https://www.kaggle.com/c/fake-news/data?select=train.csv
+
 ```text
 deception-detection/
 ├── images/                  # Visual outputs
