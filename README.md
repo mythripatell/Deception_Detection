@@ -32,6 +32,7 @@ This project implements a supervised machine learning pipeline to detect decepti
 
 
 
+
 ## Objective
 
 To build an interpretable and scalable machine learning solution for detecting misinformation in digital news content. This system addresses the increasing challenge of media deception using classical yet effective NLP and classification techniques.
