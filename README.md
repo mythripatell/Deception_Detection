@@ -25,10 +25,10 @@ This project implements a supervised machine learning pipeline to detect decepti
 ## Visual Outputs
 
 ### Confusion Matrix  
-<img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+<img src="confusion_matrix.png" alt="Confusion Matrix" width="400"/>
 
 ### ROC Curve  
-<img src="images/roc_curve.png" alt="ROC Curve" width="400"/>
+<img src="roc_curve.png" alt="ROC Curve" width="400"/>
 
 
 
