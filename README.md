@@ -6,7 +6,7 @@ This project implements a supervised machine learning pipeline to detect decepti
 ## Tech Stack
 
 - **Programming Language:** Python  
-- **Libraries:** Scikit-learn, NLTK, NumPy, Matplotlib, Seaborn  
+- **Libraries:** Scikit-learn, NLTK, NumPy.
 - **Feature Extraction:** TF-IDF  
 - **Model Used:** Logistic Regression  
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, ROC AUC
